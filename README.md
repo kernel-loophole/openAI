@@ -6,8 +6,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 
 
-
-https://user-images.githubusercontent.com/76658396/162632963-b58e89d9-4c58-4f33-9247-c266a3665690.mp4
+![demo](https://user-images.githubusercontent.com/76658396/163186916-6d94610c-3bcf-4434-b954-e8c72968b3e5.gif)
 
 
 
